@@ -812,7 +812,7 @@
               (0, i.jsxs)(G, {
                 children: [
                   (0, i.jsx)("span", { children: "Claimed" }),
-                  (0, i.jsx)("span", { children: "84,000,000,000,000" }),
+                  (0, i.jsx)("span", { children: "42,000,000,000,000" }),
                 ],
               }),
               (0, i.jsx)(N, {
