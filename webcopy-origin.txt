@@ -1,0 +1,60 @@
+Uri: https://rektarb.xyz/
+File Name: C:\Downloaded Web Sites\rektarb.xyz\index.htm
+Content Type: text/html
+
+Uri: https://rektarb.xyz/_next/static/aTwC4IebecMESoVLRJ4ZK/_buildManifest.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\aTwC4IebecMESoVLRJ4ZK\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/aTwC4IebecMESoVLRJ4ZK/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\aTwC4IebecMESoVLRJ4ZK\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/chunks/469-1022723d84618f92.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\chunks\469-1022723d84618f92.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/chunks/611-7f5128caa7988d4e.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\chunks\611-7f5128caa7988d4e.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/chunks/framework-73b8966a3c579ab0.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\chunks\framework-73b8966a3c579ab0.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/chunks/main-4b04800894029919.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\chunks\main-4b04800894029919.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/chunks/pages/index-0cb8485c6cd25c7e.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\chunks\pages\index-0cb8485c6cd25c7e.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/chunks/pages/_app-36fca95bc53a11c0.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\chunks\pages\_app-36fca95bc53a11c0.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/chunks/webpack-7cbfce4310b9fa75.js
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\chunks\webpack-7cbfce4310b9fa75.js
+Content Type: application/javascript
+
+Uri: https://rektarb.xyz/_next/static/css/30cdca3b17ce670c.css
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\css\30cdca3b17ce670c.css
+Content Type: text/css
+
+Uri: https://rektarb.xyz/_next/static/media/Gliker-Regular.9584528b.ttf
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\media\Gliker-Regular.9584528b.ttf
+Content Type: font/ttf
+
+Uri: https://rektarb.xyz/_next/static/media/Jua-Regular.a30462bf.woff
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\media\Jua-Regular.a30462bf.woff
+Content Type: font/woff
+
+Uri: https://rektarb.xyz/_next/static/media/Jua-Regular.b3198a0e.woff2
+File Name: C:\Downloaded Web Sites\rektarb.xyz\_next\static\media\Jua-Regular.b3198a0e.woff2
+Content Type: font/woff2
+
