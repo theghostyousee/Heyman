@@ -1572,7 +1572,7 @@
                                 "Token Supply:",
                                 (0, i.jsx)("span", {
                                   style: { marginLeft: "15px" },
-                                  children: "420,000,000,000,000",
+                                  children: "42,000,000,000,000",
                                 }),
                               ],
                             }),
@@ -1597,7 +1597,7 @@
                           children: ["Cheesnomic", (0, i.jsx)(nS, {})],
                         }),
                         (0, i.jsx)("span", { children: "Token Supply:" }),
-                        (0, i.jsx)("span", { children: "420,000,000,000,000" }),
+                        (0, i.jsx)("span", { children: "42,000,000,000,000" }),
                       ],
                     }),
 
